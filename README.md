@@ -15,6 +15,7 @@ This repository contains my solutions to Data Analytics Bootcamp Homework Assign
 
 * "WeatherPy" must be run first before running "VacationPy" as it must create a csv file that is needed by "VacationPy".
 * Both "WeatherPy" and "VacationPy" have blocks of code that take a few minutes to complete.
+* You will need to put your API keys from OpenWeather and Google Maps into a file named **api_keys.py** in this directory.
 
 ### Submitted by: <br>
 Ricardo G. Mora, Jr.  10/23/2021
