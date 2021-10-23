@@ -4,7 +4,7 @@ This repository contains my solutions to Data Analytics Bootcamp Homework Assign
 
 ### Code Files:
 
-> **WeatherPy.ipynb** - gets and analyses weather for random cities around the world<br>
+> **WeatherPy.ipynb** - gets and analyzes weather for random cities around the world<br>
 > **VacationPy.ipynb** - uses the weather data from "WeatherPy" to map hotels in favorable locations<br>
 
 ### Folders:
