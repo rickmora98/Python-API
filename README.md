@@ -33,7 +33,8 @@ It then uses the Google Places API to find a hotel in each of these cities and s
 
 <img src="Images/HotelMapCode.jpg">
 
-#### Output Samples:
+### Output Samples:
+
 
 <img src="Images/hotelmap.png">
 
