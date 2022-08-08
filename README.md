@@ -9,6 +9,11 @@ Pandas and Matplotlib are then used to analyze the relationship (if any) of thes
 "VacationPy.ipynb" uses the weather data that was gathered by "WeahterPy.ipynb" to generate a list of cities around the world with favorable weather conditions.
 It then uses the Google Places API to find a hotel in each of these cities and shows their locations on a map.
 
+A website has been created that illustrates the results of the weather analysis: <br>
+https://rickmora98.github.io/Web-Design-Challenge/
+
+To examine the code files, their locations are indicated in the tree below.
+
 ### Files/Folders:
 
 + **"Code"** (folder containing code files and output) <br>
