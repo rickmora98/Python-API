@@ -1,8 +1,5 @@
-# OpenWeatherMap API Key
-weather_api_key = "3bc788e69df6ba7d9f87985124f1974c"
+# Put your OpenWeatherMap API Key within the quotes:
+weather_api_key = ""
 
-# Google API Key
-g_key = "AIzaSyCXpfSxqktw-s1QXcz4msBTxpNDsNbdTmQ"
-
-# OMDb API Key
-OMDb_key = "e58d3b53"
+# Put your Google API Key within the quotes:
+g_key = ""
